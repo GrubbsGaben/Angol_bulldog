@@ -1,6 +1,6 @@
 * {	
-    box-sizing: border-box;	    margin: auto;
-  }
+    box-sizing: border-box;	  
+  }	
 body, html {	
     height: 100%;	
     margin: 0;	
@@ -38,4 +38,5 @@ body, html {
     text-align: center;	
   }	
 .kepgaleria{	
-    color: white;
+    color: white;	
+}
